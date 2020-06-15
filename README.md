@@ -22,4 +22,6 @@ about the company. We look at the effects of both. These are the conclusions we 
 
 Looking at these results, there is still a decision to be made. Should the company develop the website to catch up to the mobile app or develop the app more since it is working better. This is a decision that should be made after looking after other factors throughout the company. 
 
+Python is the only language used in this project. Libraries used are matplotlib, pandas, numpy, seaborn, and scikitlearn. 
+
 https://en.wikipedia.org/wiki/Linear_regression
