@@ -21,3 +21,5 @@ about the company. We look at the effects of both. These are the conclusions we 
 -Length of Membership: If you hold all the other features fixed a 1 unit increase in the Length of Membership is associated with an increase of around $62 more spent.
 
 Looking at these results, there is still a decision to be made. Should the company develop the website to catch up to the mobile app or develop the app more since it is working better. This is a decision that should be made after looking after other factors throughout the company. 
+
+https://en.wikipedia.org/wiki/Linear_regression
